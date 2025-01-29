@@ -8,7 +8,7 @@ Hi, I'm Adie Stevens, a Security Engineer Intern and a Computer Networking & Cyb
 
 **First Year**
 
-[[ SYS-140 ]]
+[SYS-150](https://github.com/AdieStevens/SYS-140/wiki/SYS-140)
 
 
 **Second Year**
