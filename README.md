@@ -4,7 +4,7 @@ Hi, I'm Adie Stevens, a Security Engineer Intern and a Computer Networking & Cyb
 
 ## Projects 
 
-## Education
+## Education📖
 
 **First Year**
 
