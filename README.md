@@ -4,6 +4,10 @@ Hi, I'm Adie Stevens, a Security Engineer Intern and a Computer Networking & Cyb
 
 ## Projects 🚀
 
+**[NetDesign](https://docs.google.com/presentation/d/1trGD1k8mXvliOi7bM2F-mEaMD6VK8ugNdiw4pilw1Eo/edit#slide=id.g6dd865c13b_0_21954)**: 
+
+**[SYS-265 - Final Project](https://github.com/IronMansDaughter/Final-SYS-Project/wiki)**
+
 ## Education📖
 
 **First Year**
