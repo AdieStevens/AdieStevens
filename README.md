@@ -8,6 +8,8 @@ Hi, I'm Adie Stevens, a Security Engineer Intern and a Computer Networking & Cyb
 
 **[SYS-265 - Final Project](https://github.com/IronMansDaughter/Final-SYS-Project/wiki)**
 
+**[OSQuery Project](https://github.com/AdieStevens/OSQuery-Project/wiki)**
+
 ## Education📖
 
 **First Year**
