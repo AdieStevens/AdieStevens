@@ -40,7 +40,7 @@ Hi, I'm Adie Stevens, a Security Engineer Intern and a Computer Networking & Cyb
 * [SEC-300 - Topics in Security](https://github.com/AdieStevens/SEC-300/wiki)
 * [NET-330 - Network Design](https://github.com/AdieStevens/NET-330/wiki)
 * [ITS-493 - Advanced Ethical Hacking & Penatration Testing](https://github.com/AdieStevens/ITS-493/wiki)
-* [SEC-440 - Systems Security](https://github.com/AdieStevens/SEC-440/wiki)
+* [SEC-440 - Threat Hunting and Threat Detection](https://github.com/AdieStevens/SEC-440/wiki)
 * FOR-100 - Intro to Cybercrime & DF
 * [CCC-410 - Capstone Design](https://github.com/AdieStevens/CCC-410/wiki)
 * CCC-410 - ITS Capstone Senior Project
