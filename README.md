@@ -10,7 +10,7 @@ Hi, I'm Adie Stevens, a Security Engineer Intern and a Computer Networking & Cyb
 
 * [SYS-140](https://github.com/AdieStevens/SYS-140/wiki/SYS-140)
 * [NET-150](https://github.com/AdieStevens/NET-150/wiki)
-
+* SEC-250 - Computer & Network Security
 
 **Second Year**
 
